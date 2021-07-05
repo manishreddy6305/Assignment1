@@ -1,0 +1,28 @@
+h1{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.cp{
+    margin-top: 0px;
+}
+code{
+    color: brown;
+    font-size: 17px;
+}
+.ol{
+    padding: 15px;
+}
+.co{
+    color: brown;
+    font-family: monospace;
+    font-size: 17px;
+    margin: 0px;
+}
+.one{
+    margin-left: 25px;
+    margin-top: 0px;
+}
+span{
+    color: brown;
+    font-size: 18px;
+}
